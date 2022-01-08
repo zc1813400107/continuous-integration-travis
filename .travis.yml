@@ -15,4 +15,4 @@ jobs:
     - stage: build
       script: script/build
     - stage: testlinks
-      script: script/testlinks
+      script: script/build
